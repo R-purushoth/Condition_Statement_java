@@ -4,7 +4,7 @@ public class Simple_if{
         // input are initialized directly in the code not form the user
         int a=23; // Example age Value of a is 23
         if (a > 18){
-            System.out.println("You are not eligible to vote.");
+            System.out.println("You are eligible to vote.");
         }
     }
 } 
